@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VascoBartolo
 - 👀 I’m interested in Data Science, Artificial Intelligence and Consultancy
-- 🌱 I’m currently learning Pandas and SQL
-- 💞️ I’m looking to collaborate on a project or internship in a company in those fields
+- 👨‍💻 I currently work as a full-stack software developer
+- 🎓 I'm a student of Engineering and Data Science Masters and have a bachelor in Physics Engineering
 - 📫 How to reach me: vbartolo00@gmail.com
 
 <!---
